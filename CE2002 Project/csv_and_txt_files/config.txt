@@ -1,0 +1,9 @@
+DB.movie=Movielist.csv
+DB.booking=Booking.csv
+DB.cineplex=Cineplexlist.csv
+DB.customer=Customers.csv
+DB.pricerate=PriceRate.csv
+DB.showtime=ShowTime.csv
+DB.staff=StaffDB.csv
+DB.holiday=holiday2019.txt
+DB.changelog=Changelog.txt
